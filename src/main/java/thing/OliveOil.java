@@ -1,6 +1,4 @@
-package hw1;
-
-import thing.HealthyFood;
+package thing;
 
 public class OliveOil implements HealthyFood {
     @Override

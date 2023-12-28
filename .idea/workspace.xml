@@ -5,32 +5,125 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561ef873-4db0-4de8-aeac-febd152618e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/BalykCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Cheburek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/ChocolateBa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Crisps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/DumplingsBerries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/DumplingsMeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/HealthyFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/OliveOil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/SemiFinishedFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Snack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thing/UMarket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2a4gYEwT2tE3TSf9DsdEqLw9HJQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.thing.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="thing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw1.Main" />
+      <module name="sem1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thing.Main" />
+      <module name="sem1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="sem1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="sem1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.thing.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-8336523bb0d9-3a399477" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

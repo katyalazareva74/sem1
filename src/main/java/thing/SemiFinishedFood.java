@@ -1,4 +1,4 @@
 package thing;
 
-public interface SemiFinishedFood {
+public interface SemiFinishedFood extends Food{
 }

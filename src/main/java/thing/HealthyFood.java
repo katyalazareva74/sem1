@@ -1,4 +1,4 @@
 package thing;
 
-public interface HealthyFood {
+public interface HealthyFood extends Food{
 }
